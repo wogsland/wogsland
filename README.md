@@ -1,4 +1,4 @@
-### Hi there 👋
+### <i>Any sufficiently advanced technology is indistinguishable from magic.</i> - Arthur C. Clarke
 
 <!--
 **wogsland/wogsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
